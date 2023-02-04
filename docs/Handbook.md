@@ -32,13 +32,19 @@ While being a member of the Royal Military Police you must have respect for othe
 
 The auxiliary program consists of three different phases on helping train new members to become competent and mature members of our regiment. **They must complete all their phases within 1 week.**
 
-Phase 1: Phase 1 consists of scenarios that each recruit must be able to handle. Test them on how they react to: __attempted murder__, __murder__, __immaturity__, __climbing on props__, __tool abuse__, __admin abuse__, __cuff abuse__, __disturbing CSG’s work__, __walking on the podium below Colonel rank or below required bloodline rank__. Recruit must be able to respond correctly to at least 6 scenarios.
+### Phase 1
+
+Phase 1 consists of scenarios that each recruit must be able to handle. Test them on how they react to: __attempted murder__, __murder__, __immaturity__, __climbing on props__, __tool abuse__, __admin abuse__, __cuff abuse__, __disturbing CSG’s work__, __walking on the podium below Colonel rank or below required bloodline rank__. Recruit must be able to respond correctly to at least 6 scenarios.
 Rank requirement to host this phase is 
 **Probationary Superintendent or above / Ensign +**
 
-Phase 2: This phase is where you will be tested on your knowledge of laws and consequences while conducting advanced drilling (firing commands and formations).
+### Phase 2
+
+This phase is where you will be tested on your knowledge of laws and consequences while conducting advanced drilling (firing commands and formations).
 May be hosted by Probationary Superintendent or above / Ensign +
 
-Phase 3: This phase will consist of the final test. Candidates will be asked 10 questions around scenarios, knowledge based on RMP and knowledge of laws and consequences. Host decides which question to ask from the document. Recruits must answer correctly at least 7. This event is to be hosted by Superintendent or above / Captain +
+### Phase 3
+
+This phase will consist of the final test. Candidates will be asked 10 questions around scenarios, knowledge based on RMP and knowledge of laws and consequences. Host decides which question to ask from the document. Recruits must answer correctly at least 7. This event is to be hosted by Superintendent or above / Captain +
 
 *__**In order to pass the phases you must have the basic general knowledge and get a good score with minimum mess ups in them. These tests are in place to see if you are worthy enough to be a member of the Royal Military Police.**__*
