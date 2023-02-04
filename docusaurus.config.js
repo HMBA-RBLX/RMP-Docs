@@ -70,7 +70,7 @@ const config = {
       navbar: {
         title: 'RMP',
         logo: {
-          alt: "RMP Logo',
+          alt: "RMP Logo",
           src: 'img/logo.svg',
         },
         items: [
